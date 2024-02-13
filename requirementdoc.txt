@@ -1,0 +1,6 @@
+Clinet Requirement in Project
+--------------------------------
+In Html File add fort color is red
+and apply web page back ground color
+--> Add two paragraph text 
+--> for paragraph use deffrener font colors .
